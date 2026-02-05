@@ -13,10 +13,15 @@ Having gone through competitive campus placements, international job application
 🎯 What you’ll get:
 
 ✨ Line-by-line resume feedback
+
 ✨ Role- or program-specific tailoring of SoP and resume
+
 ✨ Clear guidance on structuring experience, projects, and skills
+
 ✨ Additional LaTeX and Word resume templates!
+
 ✨ Up to 3 rounds of review and refinement
+
 ✨ Speedy response: get the first feedback within a week!
      
 Either Resume or SoP review and feedback:
