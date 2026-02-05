@@ -1,2 +1,3 @@
-# athaley-lagwankar-reviews.github.io
+# Athaley-Lagwankar Resume and SoP reviews
+
 Landing page for Athaley-Lagwankar Resume and SoP reviews
