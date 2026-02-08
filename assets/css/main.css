@@ -167,7 +167,7 @@ h6 {
   font-weight: 500;
   color: var(--heading-color);
   letter-spacing: 2px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .header .btn-getstarted,
